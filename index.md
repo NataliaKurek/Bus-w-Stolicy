@@ -6,5 +6,5 @@ Bus w Stolicy is a simple application showing live positions of buses in Warsaw.
 ![Image](https://github.com/NataliaKurek/Bus-w-Stolicy/blob/main/IMG_8332.jpg?raw=true)
 
 
-[Polityka prywatności](https://nataliakurek.github.io/Bus-w-Stolicy/privacy-policy)
+[Privacy policy](https://nataliakurek.github.io/Bus-w-Stolicy/privacy-policy)
 
